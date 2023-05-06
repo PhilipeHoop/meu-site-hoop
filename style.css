@@ -24,11 +24,10 @@
 
     #content-projects a {
   color: white;
+  display: block;
+  margin-bottom: 10px;
 }
 
-    a {
-      color: white;
-    }
 
     button {
       margin: 10px;
