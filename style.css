@@ -1,0 +1,35 @@
+  site.header {
+      text-align: left;
+      background-color: #08070b;
+      color: white;
+      padding: 10px;
+    }
+
+    body {
+      background-color: #08070b;
+      color: white;
+    }
+
+    h1 {
+
+      color: #ca80de;
+      margin-top: 5px; 
+    }
+
+    .logo {
+      float:left;
+      margin-right: 20px;
+
+    }
+
+    button {
+      margin: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 10px;
+    }
+    
+    .hidden {
+      display: none;
+    }
+  
