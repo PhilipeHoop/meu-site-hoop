@@ -1,32 +1,36 @@
-  site.header {
-      text-align: left;
-      background-color: #08070b;
-      color: white;
-      padding: 10px;
-    }
+    site.header {
+        text-align: left;
+        background-color: #08070b;
+        color: white;
+        padding: 10px;
+      }
 
-    body {
-      background-color: #08070b;
-      color: white;
-    }
+      body {
+        background-color: #08070b;
+        color: white;
+          background-image: url("#");
+          background-size: cover;
+        }
+        
+      }
 
-    h1 {
+      h1 {
 
-      color: #ca80de;
-      margin-top: 5px; 
-    }
+        color: #ca80de;
+        margin-top: 5px; 
+      }
 
-    .logo {
-      float:left;
-      margin-right: 20px;
+      .logo {
+        float:left;
+        margin-right: 20px;
 
-    }
+      }
 
-    #content-projects a {
-  color: white;
-  display: block;
-  margin-bottom: 10px;
-}
+      #content-projects a {
+    color: white;
+    display: block;
+    margin-bottom: 10px;
+  }
 
 
     button {
