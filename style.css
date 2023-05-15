@@ -19,6 +19,9 @@ p {
   font-family: Verdana;
 }
 
+.projeto img {
+  border-radius: 100px;
+}
 
 .logo {
   float: left;
@@ -30,6 +33,9 @@ p {
   display: block;
   margin-bottom: 10px;
 }
+
+
+
 
 button {
   margin: 10px;
