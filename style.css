@@ -34,8 +34,13 @@ p {
   margin-bottom: 10px;
 }
 
+ol li {
+  margin-bottom: 5px;
+}
 
-
+.white-link {
+  color: white;
+}
 
 button {
   margin: 10px;
